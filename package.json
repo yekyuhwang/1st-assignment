@@ -1,0 +1,14 @@
+{
+  "name": "1st-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "4leaf.HYK <4leaf.hyk@gamil.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yekyuhwang/1st-assignment/issues"
+  },
+  "homepage": "https://github.com/yekyuhwang/1st-assignment#readme"
+}
