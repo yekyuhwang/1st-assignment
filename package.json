@@ -10,5 +10,9 @@
   "bugs": {
     "url": "https://github.com/yekyuhwang/1st-assignment/issues"
   },
-  "homepage": "https://github.com/yekyuhwang/1st-assignment#readme"
+  "homepage": "https://github.com/yekyuhwang/1st-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
 }
